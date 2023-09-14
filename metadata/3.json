@@ -1,0 +1,32 @@
+{
+ "name": "Runner Eyes #3",
+ "description": "A collection of Runner eyes on the Goerli Testnet",
+ "image": "ipfs://QmNrH6keoJmSdGkQdfLJJBVq4MDu5QY6Cf9XgBHAdTHKL9/3.png",
+ "edition": 3,
+ "attributes": [
+  {
+   "trait_type": "Speed",
+   "value": "55"
+  },
+  {
+   "trait_type": "Energy",
+   "value": "40"
+  },
+  {
+   "trait_type": "Background",
+   "value": "Black"
+  },
+  {
+   "trait_type": "Eyeball",
+   "value": "White"
+  },
+  {
+   "trait_type": "Eye color",
+   "value": "Red"
+  },
+  {
+   "trait_type": "Iris",
+   "value": "Small"
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "name": "Runner Eyes #15",
+ "description": "A collection of W/A eyes on the Ethereum Blockchain",
+ "image": "ipfs://QmNrH6keoJmSdGkQdfLJJBVq4MDu5QY6Cf9XgBHAdTHKL9/15.png",
+ "edition": 15,
+ "attributes": [
+  {
+   "trait_type": "Speed",
+   "value": "88"
+  },
+  {
+   "trait_type": "Energy",
+   "value": "57"
+  },
+  {
+   "trait_type": "Background",
+   "value": "Black"
+  },
+  {
+   "trait_type": "Eyeball",
+   "value": "Red"
+  },
+  {
+   "trait_type": "Eye color",
+   "value": "Pink"
+  },
+  {
+   "trait_type": "Iris",
+   "value": "Large"
+  },
+  {
+   "trait_type": "Shine",
+   "value": "Shapes"
+  }
+ ]
+}
