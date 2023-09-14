@@ -1,13 +1,5 @@
-# Sample Hardhat Project
+#Links
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+ERC1155 Goerli Address = https://goerli.etherscan.io/address/0x3cc4E76B82F76aA11393A40147136FF25B354Dd3
 
-Try running some of the following tasks:
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.ts
-```
